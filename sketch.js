@@ -101,7 +101,7 @@ function draw() {
     restart.visible = true;
     
 //LMAO ANOTHER EDIT <3
-      text("I like you", 275,50);
+     // text("I like you", 275,50);
 
     //set velcity of each game object to 0
     ground.velocityX = 0;
